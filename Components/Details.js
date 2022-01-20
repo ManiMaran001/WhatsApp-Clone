@@ -1,0 +1,12 @@
+export const Details=[
+           {id:1,img_uri:"https://e7.pngegg.com/pngimages/119/921/png-clipart-flower-dahlia-flower-flower-garden-annual-plant.png",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"manimaran",chat:"hai maran"},
+             {id:2,img_uri:"https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"james",chat:"tommorow "},
+             {id:3,img_uri:"https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?k=20&m=1270067126&s=612x612&w=0&h=ZMo10u07vCX6EWJbVp27c7jnnXM2z-VXLd-4maGePqc=",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"kadhar",chat:"pdf file sended to email"},
+              {id:4,img_uri:"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"aslam",chat:"send me chat "},
+               {id:5,img_uri:"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"aslam",chat:"send me chat "},
+                {id:6,img_uri:"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"aslam",chat:"send me chat "},
+                 {id:7,img_uri:"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"aslam",chat:"send me chat "},
+                  {id:8,img_uri:"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",time:new Date().toLocaleTimeString([], { hour: '2-digit', minute: "2-digit", hour12:true }),name:"aslam",chat:"send me chat "}
+
+
+      ];
