@@ -2,4 +2,4 @@
 
 WhatsApp clone application in React native.
 I developed only Chats Calls Status UI screens and Search Filter Options.
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow](https://github.com/ManiMaran001/WhatsApp-Clone-UI-screens/blob/main/Screenshots/Chats.PNG?raw=true)
