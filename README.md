@@ -1,3 +1,4 @@
 # IDE snack Expo
 
-whats app clone application in React native
+WhatsApp clone application in React native.
+I developed only Chats Calls Status UI screens and Search Filter Options.
